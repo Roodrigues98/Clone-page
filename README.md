@@ -13,7 +13,7 @@ Na pagina foram colocadas algumas informações como a classificação indicativ
 * JavaScript;
 * HTML
 * CSS
-* Git e 
+* Git e  Github
 
 🔗[Clique aqui para acessar](https://roodrigues98.github.io/Netflix-page/)
 
