@@ -15,7 +15,7 @@ Na pagina foram colocadas algumas informações como a classificação indicativ
 * CSS
 * Git e 
 
-🔗[Clique aqui para acessar]()
+🔗[Clique aqui para acessar](https://roodrigues98.github.io/Netflix-page/)
 
 ## :dart: Status do projeto
 
