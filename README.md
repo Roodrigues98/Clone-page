@@ -7,7 +7,7 @@ Na pagina foram colocadas algumas informações como a classificação indicativ
 ![preview](assets/preview.png)
 
 ## :books: Funcionalidades
-* Na pagina é possivel assistir ao trailer do filme, clincando no player.
+* Na pagina é possivel assistir ao trailer do filme, clicando no player.
 
 ## :wrench: Tecnologias utilizadas
 * JavaScript;
